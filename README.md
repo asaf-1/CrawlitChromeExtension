@@ -1,6 +1,3 @@
-([Past chat][1])([Past chat][1])([Past chat][1])([Past chat][1])([Past chat][1])
-
-בטח. הנה README מוכן לפרויקט **Crawlit Extension** (תעתיק ל־`README.md`). הוא כתוב בצורה “GitHub-ready” ובלי לחשוף דברים רגישים.
 
 ---
 
@@ -131,5 +128,6 @@ If you want, I can generate a `LICENSE` file too.
 ---
 
 אם אתה שולח לי את **manifest.json** (רק את החלק של permissions + action + scripts) או צילום מסך של ה־popup, אני אתאים את ה־README ל־100% לפי השמות המדויקים אצלך (כפתורים, message types, permissions, וכו’) בלי לנחש.
+
 
 
