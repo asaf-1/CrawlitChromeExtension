@@ -122,12 +122,9 @@ Popup triggers actions by sending messages, for example:
 
 ## License
 
-Add your preferred license (MIT is common for personal projects).
-If you want, I can generate a `LICENSE` file too.
+Add your preferred license (MIT is common for personal projects).
 
 ---
-
-אם אתה שולח לי את **manifest.json** (רק את החלק של permissions + action + scripts) או צילום מסך של ה־popup, אני אתאים את ה־README ל־100% לפי השמות המדויקים אצלך (כפתורים, message types, permissions, וכו’) בלי לנחש.
 
 
 
